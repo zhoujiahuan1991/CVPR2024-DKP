@@ -56,7 +56,7 @@ Evaluation from checkpoint:
 ```
 
 ## Results
-The following results were obtained with single NVIDIA 3090 GPU:
+The following results were obtained with NVIDIA 4090 GPU:
 
 ![Results](figs/result.png)
 
