@@ -12,6 +12,10 @@ from torch.nn import functional as F
 
 def extract_features(model, data_loader,training_phase=None):
     model.eval()
+    try:
+        model = model.module
+    except:
+        model=model
     batch_time = AverageMeter()
     data_time = AverageMeter()
 
