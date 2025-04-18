@@ -1,7 +1,7 @@
 # [CVPR2024] Distribution-aware Knowledge Prototyping for Non-exemplar Lifelong Person Re-identification (DKP)
-
+<p align="center">
 <a href="https://github.com/zhoujiahuan1991/CVPR2024-DKP"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fzhoujiahuan1991%2FCVPR2024-DKP&label=DKP&icon=github&color=%233d8bfd"></a>
-
+</p>
 The *official* repository for  [Distribution-aware Knowledge Prototyping for Non-exemplar Lifelong Person Re-identification](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers).
 
 ![Framework](figs/framework.png)
